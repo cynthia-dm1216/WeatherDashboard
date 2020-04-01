@@ -1,0 +1,91 @@
+
+h1 {
+    text-align: center;
+    margin-right: 10%;
+}
+.cotainer {
+    background-color: whitesmoke;
+}
+
+.card {
+    background-color:  #e6f7fe;
+} 
+
+ .city_row {
+    color: black;
+} 
+
+ .col-md-9 {
+    margin: 20px;
+}  
+
+ .currentcity {
+    box-sizing:  border-box;
+    border-radius: 45px;
+    box-shadow: 0 0 40px pink;
+    padding: 50px;
+}  
+
+.weekforecast {
+    margin-top: 15px;
+    border-radius: 10px; 
+    box-shadow: 0 0 20px pink;
+}
+.mainWcont_div{
+    color: black;
+}
+
+
+.temp {
+    margin-left: 10px;
+}
+
+.wind {
+    margin-left: 10px;
+} 
+
+.uv-index {
+    color: white;
+    background-color: tomato;
+    font-size: medium;
+    padding: 3px;
+    margin: 10px;
+}
+
+.fa-sun {
+    padding-top: 15px;
+}
+
+.fut-temp {
+    font-size: 12px;
+}
+
+.fa-sun {
+    padding-top: 0;
+} 
+
+.wklySec{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 22px;
+    padding: 20px 10px 20px 10px;
+    height: 180px;
+    background-color: #4169E1;
+    border-radius: 10px;
+}
+
+.dailyforecast {
+    color: white;
+    margin-left: 5px;
+} 
+
+.default_city {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: transparent;
+    width: 120px;
+    height: 25px;
+    margin: 0 auto;
+    overflow: auto;
+}  
